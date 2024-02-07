@@ -1,2 +1,1 @@
-# nitesh
-My Profile Repo
+#Hi 👋, I'm Nitesh Kumar Sharma
