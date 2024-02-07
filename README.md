@@ -50,15 +50,15 @@
 
 ### Top Languages Used:
 <div style="display:flex;flex-direction:row">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=humdumkashyap&theme=dark&hide_border=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=humdumkashyap&theme=dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitesh0581&theme=dark&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitesh0581&theme=dark&hide_border=true" />
 </div>
 
 
 ### Profile Stats:
   <table align='center'>
     <tr>
-<td><img src='https://github-readme-streak-stats.herokuapp.com?user=humdumkashyap&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
-<td><img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
+<td><img src='https://github-readme-streak-stats.herokuapp.com?user=nitesh0581&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
+<td><img src='https://github-readme-stats.vercel.app/api?username=nitesh0581&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
     </tr>
   </table>
