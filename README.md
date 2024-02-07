@@ -55,6 +55,14 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitesh0581&theme=dark&hide_border=true" />
 </div>
 
+ ### Top Languages Used:
+<div style="display:flex;flex-direction:row">
+ <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh0581&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="nitesh0581" />
+
+ ### Leetcode:
+<div > 
+  <img width="48%" src="https://leetcard.jacoblin.cool/nitesh0581?theme=dark&font=Karma&ext=contest" alt="Stats"/>
+</div>
 
 ### Profile Stats:
   <table align='center'>
