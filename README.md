@@ -68,24 +68,11 @@
 
   <table align='center'>
     <tr>
-<td><img src='https://github-readme-streak-stats.herokuapp.com?user=humdumkashyap&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
-<td><img src='https://github-readme-stats.vercel.app/api?username=humdumkashyap&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
+<td><img src='https://github-readme-streak-stats.herokuapp.com?user=nitesh0581&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
+<td><img src='https://github-readme-stats.vercel.app/api?username=nitesh0581&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
     </tr>
   </table>
 
-### Top Languages Used:
-
-<div style="display:flex;flex-direction:row">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=humdumkashyap&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="humdumkashyap" />
-
-### Leetcode:
-
-<div > 
-  <img width="48%" src="https://leetcard.jacoblin.cool/humdumkashyap?theme=dark&font=Karma&ext=contest" alt="Stats"/>
-</div>
-
-
- </br>
 </br>
  
-![Snake animation](https://raw.githubusercontent.com/humdumkashyap/humdumkashyap/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/nitesh0581/nitesh0581/output/github-contribution-grid-snake.svg)
