@@ -75,4 +75,4 @@
  
 </br>
  
-![Snake animation](https://raw.githubusercontent.com/nitesh0581/nitesh0581/output/github-contribution-grid-snake.svg)
+[Snake animation](https://raw.githubusercontent.com/nitesh0581/nitesh0581/output/github-contribution-grid-snake.svg)
