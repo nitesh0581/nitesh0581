@@ -1,78 +1,107 @@
 <h1 align="center">Hi 👋, I'm Nitesh Kumar Sharma</h1>
-<h3 align="center">A passionate frontend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitesh0581&label=Profile%20views&color=1dc95f&style=flat-square" alt="nitesh-kumar-sharma" /></p>
+<h3 align="center">Full Stack Developer | React.js | Node.js | TypeScript</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=nitesh0581&label=Profile%20views&color=1dc95f&style=flat-square" alt="nitesh0581" />
+</p>
 
-- 👨‍💻 currently i am working on **100 Days 100 DSA Questions**
+<ul>
+  <li>💼 Full Stack Developer with 2+ years of experience building scalable web applications.</li>
+  <li>👨‍💻 Currently working on enterprise-grade React.js & Node.js applications.</li>
+  <li>🚀 Currently solving <strong>100 Days 100 DSA Questions</strong>.</li>
+  <li>💬 Ask me about <strong>JavaScript, TypeScript, React.js, Next.js, Node.js, Redux Toolkit, REST APIs</strong>.</li>
+  <li>👯 Open to collaborate on <strong>React.js, Next.js, Node.js and Open Source Projects</strong>.</li>
+  <li>🤖 Hands-on experience with <strong>GitHub Copilot, ChatGPT, Claude & Cursor AI</strong>.</li>
+  <li>🌱 Currently learning <strong>System Design, Backend Architecture & Advanced DSA</strong>.</li>
+</ul>
 
-- 💬 Ask me about **javascript, react, next js**
+<h3>Frontend</h3>
 
-- 👯 I’m looking to collaborate on **React and Next Js Open Source projects**
-
-
-### Skills
-
-<div style="display:flex;flex-direction:row">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=61DAFB" />
-   <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
 
+<h3>Backend</h3>
 
-
-### Languages
-
-<div style="display:flex;flex-direction:row"> 
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
 </div>
 
-### Tools
+<h3>Database</h3>
 
-<div style="display:flex;flex-direction:row">
-   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" />
-       <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-   <img src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
 
-### Styling
+<h3>Tools</h3>
 
-<div style="display:flex;flex-direction:row">
-    <img src="https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white" />
-   <img src="https://img.shields.io/badge/Material--UI-%230170FE?style=for-the-badge&logo=mui&logoColor=white"/>
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
-    <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
+<div>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </div>
 
+<h3>AI Tools</h3>
 
-### Top Languages Used:
-<div style="display:flex;flex-direction:row">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitesh0581&theme=dark&hide_border=true" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitesh0581&theme=dark&hide_border=true" />
+<div>
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge" />
 </div>
 
- ### Top Languages Used:
-<div style="display:flex;flex-direction:row">
- <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh0581&show_icons=true&theme=dark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="nitesh0581" />
+<h3>Styling</h3>
 
- ### Leetcode:
-<div > 
-  <img width="48%" src="https://leetcard.jacoblin.cool/nitesh0581?theme=dark&font=Karma&ext=contest" alt="Stats"/>
+<div>
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ant_Design-0170FE?style=for-the-badge&logo=antdesign&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
 </div>
 
-### 📈Profile Stats:
+<h3>📊 Top Languages Used</h3>
 
-  <table align='center'>
-    <tr>
-<td><img src='https://github-readme-streak-stats.herokuapp.com?user=nitesh0581&theme=dark&hide_border=true&ring=ffffff&currStreakLabel=ffffff&fire=ffffff'/></td>
-<td><img src='https://github-readme-stats.vercel.app/api?username=nitesh0581&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true'/></td>
-    </tr>
-  </table>
- 
-</br>
- 
-[Snake animation](https://raw.githubusercontent.com/nitesh0581/nitesh0581/output/github-contribution-grid-snake.svg)
+<div>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nitesh0581&theme=dark&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nitesh0581&theme=dark&hide_border=true" />
+</div>
+
+<div>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=nitesh0581&show_icons=true&theme=dark&layout=compact" />
+</div>
+
+<h3>💻 LeetCode</h3>
+
+<div>
+  <img width="48%" src="https://leetcard.jacoblin.cool/nitesh0581?theme=dark&font=Karma&ext=contest" />
+</div>
+
+<h3>📈 Profile Stats</h3>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=nitesh0581&theme=dark&hide_border=true"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=nitesh0581&count_private=true&show_icons=true&include_all_commits=true&theme=dark&hide_border=true"/>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/nitesh0581/nitesh0581/output/github-contribution-grid-snake.svg" />
